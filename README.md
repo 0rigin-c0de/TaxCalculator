@@ -1,4 +1,4 @@
-# Tax Calculator README
+# Tax Calculator
  It allows users to input their annual income, extra income, age group, and total deductions to calculate their overall income after tax deduction.
 
 ## Features
