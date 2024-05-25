@@ -7,3 +7,5 @@
 - Handles form submission and calculates tax based on the provided inputs.
 - Displays error messages if required fields are empty or if the input format is invalid.
 - Utilizes jQuery for DOM manipulation and event handling.
+
+## Contributors are welcome 
